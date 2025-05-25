@@ -1,0 +1,222 @@
+{
+  "zones": [
+    {
+      "curb_zone_id": "fe66b357-9e0e-4056-aede-663d4c82f24a",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.482339,
+            37.734641
+          ],
+          [
+            -122.482335,
+            37.734578
+          ]
+        ]
+      },
+      "published_date": 1570474612,
+      "last_updated_date": 1570474612,
+      "start_date": 1570474612,
+      "location_references": [
+        {
+          "source": "http://openlr.org",
+          "ref_id": "CCgBEAAkI6jmwRrVhgAJBQQEA30ACgQDBGYAAAb/pAAJBQQEA/0AMFcJ",
+          "start": 8700,
+          "end": 700,
+          "side": "left"
+        }
+      ],
+      "street_name": "Paraiso Place",
+      "cross_street_start_name": "Crestlake Drive",
+      "cross_street_end_name": "Sloat Boulevard",
+      "curb_policy_ids": [
+        "eaa5670a-e95b-49e6-9f58-0b45487b08fc"
+      ],
+      "parking_angle": null,
+      "num_spaces": 0
+    },
+    {
+      "curb_zone_id": "e6aef843-3a99-40f3-a5d5-e00a86840145",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.482431,
+            37.734655
+          ],
+          [
+            -122.482425,
+            37.734575
+          ]
+        ]
+      },
+      "published_date": 1570474612,
+      "last_updated_date": 1570474612,
+      "start_date": 1570474612,
+      "location_references": [
+        {
+          "source": "http://openlr.org",
+          "ref_id": "CCgBEAAkI6jmwRrVhgAJBQQEA30ACgQDBGYAAAb/pAAJBQQEA/0AMFkJ",
+          "start": 8500,
+          "end": 900,
+          "side": "right"
+        }
+      ],
+      "street_name": "Paraiso Place",
+      "cross_street_start_name": "Crestlake Drive",
+      "cross_street_end_name": "Sloat Boulevard",
+      "curb_policy_ids": [
+        "c0713ac4-a56b-4525-a00d-c7a56d072f96"
+      ],
+      "parking_angle": null,
+      "num_spaces": 0
+    },
+    {
+      "curb_zone_id": "e217c817-a535-43e7-9f24-87967b9c7966",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.482475,
+            37.735337
+          ],
+          [
+            -122.482431,
+            37.734655
+          ]
+        ]
+      },
+      "published_date": 1570474612,
+      "last_updated_date": 1570474612,
+      "start_date": 1570474612,
+      "location_references": [
+        {
+          "source": "http://openlr.org",
+          "ref_id": "CCgBEAAkI6jmwRrVhgAJBQQEA30ACgQDBGYAAAb/pAAJBQQEA/0AMAkO",
+          "start": 900,
+          "end": 7600,
+          "side": "right"
+        }
+      ],
+      "street_name": "Paraiso Place",
+      "cross_street_start_name": "Crestlake Drive",
+      "cross_street_end_name": "Sloat Boulevard",
+      "curb_policy_ids": [
+        "98e30992-322c-4445-abc0-1043c7dfc8f3",
+        "015c95bf-85c6-486d-9f46-34ad4d5bb936"
+      ],
+      "parking_angle": "PARALLEL",
+      "num_spaces": 14
+    },
+    {
+      "curb_zone_id": "d8c9efd3-d2b2-404f-bed3-0bb5770feb00",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.482387,
+            37.735377
+          ],
+          [
+            -122.482381,
+            37.735287
+          ]
+        ]
+      },
+      "published_date": 1570474612,
+      "last_updated_date": 1570474612,
+      "start_date": 1570474612,
+      "location_references": [
+        {
+          "source": "http://openlr.org",
+          "ref_id": "CCgBEAAkI6jmwRrVhgAJBQQEA30ACgQDBGYAAAb/pAAJBQQEA/0AMAZc",
+          "start": 500,
+          "end": 1000,
+          "side": "left"
+        }
+      ],
+      "street_name": "Paraiso Place",
+      "cross_street_start_name": "Crestlake Drive",
+      "cross_street_end_name": "Sloat Boulevard",
+      "curb_policy_ids": [
+        "006191dd-9d34-41f6-b8fd-d649f15b26d3"
+      ],
+      "parking_angle": null,
+      "num_spaces": 0
+    },
+    {
+      "curb_zone_id": "26690c95-a089-4713-a291-ff30fdc43c23",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.482381,
+            37.735287
+          ],
+          [
+            -122.482339,
+            37.734641
+          ]
+        ]
+      },
+      "published_date": 1570474612,
+      "last_updated_date": 1570474612,
+      "start_date": 1570474612,
+      "location_references": [
+        {
+          "source": "http://openlr.org",
+          "ref_id": "CCgBEAAkI6jmwRrVhgAJBQQEA30ACgQDBGYAAAb/pAAJBQQEA/0AMAsQ",
+          "start": 1500,
+          "end": 7200,
+          "side": "left"
+        }
+      ],
+      "street_name": "Paraiso Place",
+      "cross_street_start_name": "Crestlake Drive",
+      "cross_street_end_name": "Sloat Boulevard",
+      "curb_policy_ids": [
+        "5aea094f-ce73-4acb-98aa-a7e49d5331c0",
+        "0c15452e-5572-49f6-9646-f0feb6e9ea64"
+      ],
+      "parking_angle": "PARALLEL",
+      "num_spaces": 14
+    },
+    {
+      "curb_zone_id": "49147af1-76e2-4b61-ab98-a4c93041d2ac",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.482479,
+            37.735391
+          ],
+          [
+            -122.482475,
+            37.735337
+          ]
+        ]
+      },
+      "published_date": 1570474612,
+      "last_updated_date": 1570474612,
+      "start_date": 1570474612,
+      "location_references": [
+        {
+          "source": "http://openlr.org",
+          "ref_id": "CCgBEAAkI6jmwRrVhgAJBQQEA30ACgQDBGYAAAb/pAAJBQQEA/0AMANe",
+          "start": 300,
+          "end": 600,
+          "side": "right"
+        }
+      ],
+      "street_name": "Paraiso Place",
+      "cross_street_start_name": "Crestlake Drive",
+      "cross_street_end_name": "Sloat Boulevard",
+      "curb_policy_ids": [
+        "ecdd5202-51c6-44bb-b5c8-514ba34274fe"
+      ],
+      "parking_angle": null,
+      "num_spaces": 0
+    }
+  ]
+}

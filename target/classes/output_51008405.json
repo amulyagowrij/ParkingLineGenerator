@@ -1,0 +1,128 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Curb Area",
+      "fill" : "transparent"
+    },
+    "geometry" : {"type":"Polygon","coordinates":[[[-122.50529502,37.73584043],[-122.50529186,37.73581041],[-122.50527505,37.73565078],[-122.505275,37.73564974],[-122.505275,37.73557],[-122.50527519,37.73556805],[-122.50527576,37.73556617],[-122.50527669,37.73556444],[-122.50527793,37.73556293],[-122.50527944,37.73556169],[-122.50528117,37.73556076],[-122.50528305,37.73556019],[-122.505285,37.73556],[-122.50528695,37.73556019],[-122.50528883,37.73556076],[-122.50529056,37.73556169],[-122.50529207,37.73556293],[-122.50529331,37.73556444],[-122.50529424,37.73556617],[-122.50529481,37.73556805],[-122.505295,37.73557],[-122.505295,37.73564921],[-122.50531175,37.73580831],[-122.50531492,37.73583843],[-122.50531494,37.73583862],[-122.50531495,37.73583881],[-122.50531497,37.735839],[-122.50533497,37.736139],[-122.5053349,37.73614096],[-122.50533446,37.73614287],[-122.50533365,37.73614466],[-122.50533251,37.73614625],[-122.50533109,37.73614759],[-122.50532942,37.73614863],[-122.50532759,37.73614932],[-122.50532565,37.73614965],[-122.50532369,37.73614958],[-122.50532179,37.73614914],[-122.50532,37.73614833],[-122.5053184,37.73614719],[-122.50531706,37.73614576],[-122.50531603,37.7361441],[-122.50531533,37.73614227],[-122.50531501,37.73614033],[-122.50529502,37.73584043]]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.505357,37.73594],[-122.505355,37.735905]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.50533256,37.73590687],[-122.50532956,37.73587087]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.505338,37.735724],[-122.50533,37.735648],[-122.50533,37.735628]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.50532062,37.73577149],[-122.50531562,37.73572649]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.50528947,37.73594246],[-122.50528247,37.73584046],[-122.50527939,37.73580954],[-122.50527039,37.7357276]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.50534054,37.73602266],[-122.50533454,37.73594166]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.505349,37.735823],[-122.505347,37.735806],[-122.505346,37.735796]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.505352,37.735869],[-122.50535,37.735837],[-122.50535,37.735837],[-122.505349,37.735823]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.505346,37.735796],[-122.505343,37.735769]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.50527038,37.73572747],[-122.50526438,37.73567447]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.505242,37.735677],[-122.50524,37.735652],[-122.50524,37.735638]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.505367,37.736084],[-122.505363,37.736021]]}
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Parking Line",
+      "stroke" : "#ff0000",
+      "stroke-width" : 2,
+      "stroke-opacity" : 1
+    },
+    "geometry" : {"type":"LineString","coordinates":[[-122.505277,37.736097],[-122.505267,37.735944]]}
+  } ]
+}
