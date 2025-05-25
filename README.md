@@ -3,6 +3,12 @@
 ParkingLineGenerator is a robust Java tool that automates the generation of curbside parking lines using geospatial data. Given area and zone JSON/GeoJSON files, it computes offset lines (left/right parking lines) for each road, producing GeoJSON files ready for mapping, visualization, and analysis.
 ---
 
+## Problem Statement
+
+Given a set of road areas (`areas.json`) and curb zones (`zones.json`), automatically generate the parking lines (offset lines) on both sides of each road segment. Each area references its zones by ID. The system must be scalable (capable of handling datasets from a handful to hundreds of thousands of roads), use [JTS](https://locationtech.github.io/jts/) for geometry, and output GeoJSON suitable for visualization.
+
+---
+
 ## Approach
 
 ### *1. Data Loading*
@@ -58,3 +64,20 @@ ParkingLineGenerator is a robust Java tool that automates the generation of curb
 * *Streaming Data Handling:* Switch to streaming JSON parsing (Jackson’s Streaming API) to handle files that don’t fit into memory.
 * *Batch Output:* Write output in configurable batches or chunked files for extremely large city datasets.
 * *Configurable Parameters:* Allow more user configuration (output format, buffer distance, etc.) via command-line arguments or config files.
+
+---
+
+## How to Run
+
+### **Prerequisites**
+- Java 17 or newer
+- Maven 3.x
+
+### **Steps**
+
+```bash
+git clone https://github.com/amulyagowrij/ParkingLineGenerator.git
+cd ParkingLineGenerator
+mvn clean package
+java -jar ./target/ParkingLineGenerator.jar
+
